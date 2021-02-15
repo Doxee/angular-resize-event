@@ -1,6 +1,6 @@
 {
   "name": "angular-resize-event",
-  "version": "2.0.1",
+  "version": "2.0.1-da.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/vdolek/angular-resize-event"
@@ -17,8 +17,8 @@
   ],
   "license": "MIT",
   "peerDependencies": {
-    "@angular/common": "^10.0.14",
-    "@angular/core": "^10.0.14"
+    "@angular/common": "~8.2.14",
+    "@angular/core": "~8.2.14"
   },
   "dependencies": {
     "css-element-queries": "^1.2.3",

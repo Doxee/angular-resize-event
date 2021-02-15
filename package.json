@@ -1,6 +1,6 @@
 {
   "name": "angular-resize-event-library",
-  "version": "2.0.1",
+  "version": "2.0.1-da.1",
   "scripts": {
     "build": "ng build --prod",
     "test": "ng test",
@@ -9,24 +9,24 @@
   },
   "private": true,
   "dependencies": {
-    "@angular/animations": "~10.0.14",
-    "@angular/common": "~10.0.14",
-    "@angular/compiler": "~10.0.14",
-    "@angular/core": "~10.0.14",
-    "@angular/forms": "~10.0.14",
-    "@angular/platform-browser": "~10.0.14",
-    "@angular/platform-browser-dynamic": "~10.0.14",
-    "@angular/router": "~10.0.14",
+    "@angular/animations": "~8.2.14",
+    "@angular/common": "~8.2.14",
+    "@angular/compiler": "~8.2.14",
+    "@angular/core": "~8.2.14",
+    "@angular/forms": "~8.2.14",
+    "@angular/platform-browser": "~8.2.14",
+    "@angular/platform-browser-dynamic": "~8.2.14",
+    "@angular/router": "~8.2.14",
     "css-element-queries": "^1.2.3",
     "rxjs": "~6.5.5",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.3"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^0.1002.0",
-    "@angular-devkit/build-ng-packagr": "~0.1000.8",
-    "@angular/cli": "~10.0.8",
-    "@angular/compiler-cli": "~10.0.14",
+    "@angular-devkit/build-angular": "^0.803.29",
+    "@angular-devkit/build-ng-packagr": "~0.803.29",
+    "@angular/cli": "~8.3.29",
+    "@angular/compiler-cli": "~8.2.14",
     "@types/jasmine": "~3.5.0",
     "@types/jasminewd2": "~2.0.3",
     "@types/node": "^12.11.1",
@@ -38,10 +38,10 @@
     "karma-coverage-istanbul-reporter": "~3.0.2",
     "karma-jasmine": "~3.3.0",
     "karma-jasmine-html-reporter": "^1.5.0",
-    "ng-packagr": "^10.0.0",
+    "ng-packagr": "^9.1.1",
     "protractor": "~7.0.0",
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
-    "typescript": "~3.9.5"
+    "typescript": "~3.5.3"
   }
 }
